@@ -12,6 +12,7 @@ public class PrimeNumber {
         }
             System.out.println(x + " is a prime number");
 
-
+        // SFzdbggb
+        // sfytarghjujg
     }
 }
